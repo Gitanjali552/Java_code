@@ -9,3 +9,11 @@ public class SumDigits {
         System.out.println("Sum of Digits: " +sum);
     }
 }
+
+
+/* output
+
+D:\anudip>java SumDigits
+Sum of Digits: 18
+
+*/
